@@ -3,9 +3,13 @@ This AutoClicker is a lightweight, user-friendly application designed to click o
 
 Features:
 🎯 Single point targeting: Press P to capture the screen position.
+
 🖱️ Automated clicks: Continuously clicks at the selected point.
+
 🖥️ .exe integration: Compatible with any .exe file for automated tasks.
+
 ⚙️ User-friendly interface: Minimalistic and easy-to-use.
+
 
 🤝 Contributing
 We welcome contributions! Feel free to:
